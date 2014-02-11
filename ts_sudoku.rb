@@ -1,0 +1,5 @@
+require 'test/unit'
+require_relative 'tc_cell'
+require_relative 'tc_cellGroup'
+require_relative 'tc_grid'
+require_relative 'tc_puzzles'
